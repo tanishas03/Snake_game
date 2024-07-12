@@ -6,3 +6,4 @@ The food element is created using the turtle shape and placed at random places e
 Snake segments are updated after each encounter with the food element. 🍴🥝
 Lastly, the scoreboard increases the number accordingly and displays GAME OVER for certain conditions, try and find out when the game gets over 😉
 Enjoy!🌟
+![snake game – main py 12-07-2024 14_37_29](https://github.com/user-attachments/assets/905f3293-541c-4505-9d7f-5c0470fbe38b)
